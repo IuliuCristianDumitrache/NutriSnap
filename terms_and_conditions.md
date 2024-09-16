@@ -33,7 +33,7 @@ We reserve the right to terminate your account or restrict access to the App if 
 
 ### 2. Privacy and Data Usage
 
-Your use of the App is also governed by our  [Privacy Policy](#privacy-policy), which explains how we collect, use, and protect your personal information. By using the App, you consent to the collection and use of your data as outlined in our Privacy Policy.
+Your use of the App is also governed by our  [Privacy Policy](https://github.com/IuliuCristianDumitrache/NutriSnap/blob/main/privacy_policy.md), which explains how we collect, use, and protect your personal information. By using the App, you consent to the collection and use of your data as outlined in our Privacy Policy.
 
 ### 3. Food and Nutrient Information
 
